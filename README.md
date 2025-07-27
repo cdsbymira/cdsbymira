@@ -1,4 +1,10 @@
 ## Hi there 👋
+Hi, I’m Mira. I’m a high school student with a strong interest in technology and innovation. I’m currently learning the fundamentals of web development and version control, and I enjoy building tools that solve real problems in education.
+
+Right now, I’m working on an AI-supported student monitoring system that helps track academic engagement and project progress. I aim to create practical, user-friendly interfaces and explore how technology can improve learning environments.
+
+I believe in starting early, staying curious, and always being open to growth. This is just the beginning of my journey.
+
 
 <!--
 **cdsbymira/cdsbymira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
